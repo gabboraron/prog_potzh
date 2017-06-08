@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1496863026 source:c:\users\buriansandor\desktop\potzh\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"matrix.h"
+	"tetelek.h"
+
+1496862755 source:c:\users\buriansandor\desktop\potzh\matrix.cpp
+	"matrix.h"
+	<vector>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+
+1496857997 c:\users\buriansandor\desktop\potzh\matrix.h
+	<vector>
+	<string>
+
+1496862989 source:c:\users\buriansandor\desktop\potzh\tetelek.cpp
+	<vector>
+	<string>
+	"tetelek.h"
+
+1496862917 c:\users\buriansandor\desktop\potzh\tetelek.h
+	<vector>
+	<string>
+	<iostream>
+
